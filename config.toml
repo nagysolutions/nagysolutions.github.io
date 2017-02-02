@@ -42,7 +42,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "DevOps"
-    subtitle = 'We provide all kinds and size of the DevOps services, beginning with a simple server deployment and ending with a design and architecture of complex Continuous Integration and Continuous Delivery pipelines with all scale of automation and configuration management, monitoring solutions and load testing etc. <br> Out clients can forget about the infrastructure layers and purely focus on delivering good quality software.'
+    subtitle = 'We provide all kinds and size of DevOps services, beginning with a simple server deployment and ending with a design and architecture of complex Continuous Integration and Continuous Delivery pipelines with all scale of automation and configuration management, monitoring solutions and load testing etc. <br> Out clients can forget about the infrastructure layers and purely focus on delivering good quality software.'
 
 
   # Intro section
@@ -50,29 +50,31 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "What is DevOps?"
+    description = "Find out more about this software delivery solutions which brings together developers and operations into a single unit."
     url = "#"
-    button = "Get In Touch"
+    button = "Devops?"
     # icon = "icon-bulb"
-    icon = "icon-magnet"
+    icon = "icon-refresh"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Benefits of DevOps"
+    description = "DevOps enables frequent deploys, efficient and quicker bug resolutions, stability and higher productivity."
     url = "#"
-    button = "Click Me"
-    icon = "icon-wrench"
+    button = "Benefits"
+    icon = "icon-chart"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Performance of DevOps"
+    description = "Easier colaboration between teams. Shared visibility over performance metrics to ensure not to miss any crucial detail."
     url = "#"
-    button = "Why us?"
-    icon = "icon-rocket"
+    button = "Performance"
+    icon = "icon-speedometer"
     img = "img_10.jpg"
+
+
 
 
   # [params.intro.video]
